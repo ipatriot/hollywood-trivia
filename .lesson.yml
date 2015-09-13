@@ -1,0 +1,8 @@
+---
+title: "Hollywood Trivia"
+type: "challenge"
+description: "Use SQL to discover the worst movies ever."
+visibility: "assign"
+tags: "sql"
+ignore:
+- "movie_database.sql"
